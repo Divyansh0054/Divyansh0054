@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a3a&height=180&section=header&text=Hi,%20I'm%20Divyansh%20Sharma&fontSize=38&fontColor=3fb950&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Developer;Backend+Engineer+%2B+Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Development;Backend+Engineering+%26+REST+APIs;Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Divyansh0054?tab=followers"><img src="https://img.shields.io/github/followers/Divyansh0054?style=for-the-badge&color=58a6ff&labelColor=0d1117"/></a>
+  <a href="https://github.com/Divyansh0054?tab=followers">
+    <img src="https://img.shields.io/github/followers/Divyansh0054?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Divyansh0054&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divyansh-sharma-6a9651290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
