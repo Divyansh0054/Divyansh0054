@@ -216,13 +216,13 @@ Responsive gaming website featuring subscription-based memberships, time-based c
 
 ---
 
-<h2 align="center">Trophies</h2>
+<!-- <h2 align="center">Trophies</h2>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Divyansh0054&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </p>
 
----
+--- -->
 
 <h2 align="center">Connect With Me</h2>
 
