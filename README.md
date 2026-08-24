@@ -3,21 +3,26 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Development;Backend+Engineering+%26+REST+APIs;Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=56D364&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Development;Backend+Engineering+%26+REST+APIs;Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Divyansh0054?tab=followers">
-    <img src="https://img.shields.io/github/followers/Divyansh0054?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github"/>
+    <img src="https://img.shields.io/github/followers/Divyansh0054?style=for-the-badge&color=238636&labelColor=0d1117&logo=github"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Divyansh0054&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Divyansh0054&style=for-the-badge&color=238636&labelColor=0d1117"/>
 </p>
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyansh-sharma-6a9651290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://personal-portfolio-8f6ccvgaa-divyansh2354.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/Divyansh0054"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/divyansh-sharma-6a9651290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://personal-portfolio-8f6ccvgaa-divyansh2354.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Divyansh0054">
+    <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
