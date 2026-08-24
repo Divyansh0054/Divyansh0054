@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a3a&height=180&section=header&text=Hi,%20I'm%20Divyansh%20Sharma&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=Hi,%20I'm%20Divyansh%20Sharma&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=38"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Developer;Backend+Engineer+%2B+Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
