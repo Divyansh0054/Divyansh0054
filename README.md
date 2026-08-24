@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Development;Backend+Engineering+%2B+REST+APIs;Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=Software+%26+Full-Stack+Developer;Backend+Engineer+%2B+Data+Structures+%26+Algorithms;AI%2FML+Applications"/>
 </p>
 
 <p align="center">
