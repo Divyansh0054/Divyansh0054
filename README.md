@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divyansh-sharma-6a9651290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://personal-portfolio-8f6ccvgaa-divyansh2354.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://github.com/Divyansh0054"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -56,7 +56,7 @@ Computer Science undergraduate at Vellore Institute of Technology, focused on So
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js"/>
 <img src="https://skillicons.dev/icons?i=express" width="48" title="Express.js"/>
 <img src="https://skillicons.dev/icons?i=flask" width="48" title="Flask"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" title="FastAPI"/>
+<!-- <img src="https://skillicons.dev/icons?i=fastapi" width="48" title="FastAPI"/> -->
 </p>
 
 <p align="center"><b>Databases</b></p>
