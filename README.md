@@ -56,7 +56,7 @@ Computer Science undergraduate at Vellore Institute of Technology, focused on So
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js"/>
 <img src="https://skillicons.dev/icons?i=express" width="48" title="Express.js"/>
 <img src="https://skillicons.dev/icons?i=flask" width="48" title="Flask"/>
-<!-- <img src="https://skillicons.dev/icons?i=fastapi" width="48" title="FastAPI"/> -->
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" title="FastAPI"/>
 </p>
 
 <p align="center"><b>Databases</b></p>
